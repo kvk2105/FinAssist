@@ -11,8 +11,8 @@
 
 BOT_NAME = 'FinAssist'
 
-SPIDER_MODULES = ['FinAssist.spiders']
-NEWSPIDER_MODULE = 'FinAssist.spiders'
+SPIDER_MODULES = ['spiders']
+NEWSPIDER_MODULE = 'spiders'
 
 MONGODB_HOST = 'localhost'
 MONGODB_PORT = 27017

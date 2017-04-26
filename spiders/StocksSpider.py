@@ -1,5 +1,5 @@
 import scrapy
-from FinAssist.items import FinassistItem
+from items import FinassistItem
 from pymongo.mongo_client import MongoClient
 from scrapy.utils.project import get_project_settings
 
